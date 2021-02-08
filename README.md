@@ -9,9 +9,9 @@ In addition to my mods I also curate the Keizaal Wabbajack modlist. It is a simp
 ## My Socials
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
-<a class="buttons" href="https://www.nexusmods.com/users/42051055">Nexus Mods</a>
-<a class="buttons" href="https://github.com/EzioTheDeadPoet">GitHub</a>
-<a class="buttons" href="https://www.reddit.com/user/EzioTheDeadPoet">Reddit</a>
+<a class="buttons" href="https://www.nexusmods.com/users/61720101?tab=user+files">Nexus Mods</a>
+<a class="buttons" href="https://github.com/PierreDespereaux">GitHub</a>
+<a class="buttons" href="https://www.reddit.com/user/PDespereaux">Reddit</a>
 <a class="buttons" href="https://www.youtube.com/channel/UCJrDizmqxqo-v9yhEvcU59Q">YouTube</a>
 <a class="buttons" href="https://www.patreon.com/user?u=16914107">Patreon</a>
 </div>
