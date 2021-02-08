@@ -1,5 +1,7 @@
 # Pierre Despereaux
 
+![](https://raw.githubusercontent.com/PierreDespereaux/AboutMe/master/assets/images/Profile%20Picture.jpg)
+
 ## About Me
 
 Hello all, I am Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist author. In the past I have focused mainly on on item integration mods such as Beyond Skyrim in Skyrim - An Integration Mod and Pirate's Life for Me - A Creation Club Integration Mod but I have recently moved on to more ambitious and complicated projects. Right now I am working on Asya'la the Nordic Khajiit - A Fully Voiced Follower mod alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
