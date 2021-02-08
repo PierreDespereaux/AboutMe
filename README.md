@@ -9,6 +9,7 @@ In addition to my mods I also curate the Keizaal Wabbajack modlist. It is a simp
 ## My Modlist
 
 - [Keizaal](https://pierredespereaux.github.io/Keizzal)
+
   - Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.
 
 ## My Socials
@@ -21,8 +22,6 @@ In addition to my mods I also curate the Keizaal Wabbajack modlist. It is a simp
 </div>
 
 ## Support Me
-
-If you like what I do you can support me on Patreon or a one time donation via Ko-fi, both types of supporters will be featured on a dedicated "Hall of Fame" page linked to all my works.
 
 <a href="https://www.patreon.com/bePatron?u=40374890"><img class="ko-fi" height='36' style='border:0px;height:36px;' src='https://media.discordapp.net/attachments/479647610055950336/718697459592986634/Patreon_Button.png' border='0' alt="Become a Patron" /></a>
 
