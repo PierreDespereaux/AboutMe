@@ -21,8 +21,6 @@ In addition to my mods I also curate the Keizaal Wabbajack modlist. It is a simp
 <a class="buttons" href="https://www.youtube.com/channel/UCJrDizmqxqo-v9yhEvcU59Q">YouTube</a>
 </div>
 
-## Support Me
-
 <a href="https://www.patreon.com/bePatron?u=40374890"><img class="ko-fi" height='36' style='border:0px;height:36px;' src='https://media.discordapp.net/attachments/479647610055950336/718697459592986634/Patreon_Button.png' border='0' alt="Become a Patron" /></a>
 
 <!-- markdownlint-enable MD033 -->
