@@ -21,6 +21,7 @@ In addition to my mods I also curate the [Keizaal](https://pierredespereaux.gith
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a> |
 </div>
 
+---
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
