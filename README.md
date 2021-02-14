@@ -4,6 +4,20 @@ Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack m
 
 In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Keizaal](https://discord.gg/eYZJFP8) or [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
 
+## My Socials
+
+<!-- markdownlint-disable MD033 -->
+<div class="socials">
+<a class="buttons" href="https://forums.nexusmods.com/index.php?/user/61720101-pierredespereaux/">Nexus Forums</a> |
+<a class="buttons" href="https://github.com/PierreDespereaux">GitHub</a> |
+<a class="buttons" href="https://www.reddit.com/user/PDespereaux">Reddit</a> |
+<a class="buttons" href="https://www.youtube.com/channel/UCJrDizmqxqo-v9yhEvcU59Q">YouTube</a> |
+  <a class="buttons" href="https://ko-fi.com/pierredespereaux">Ko-fi</a> |
+<a class="buttons" href="https://www.patreon.com/user?u=16914107">Patreon</a>
+</div>
+
+---
+
 ## My Mods
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png">](https://www.nexusmods.com/users/61720101)
@@ -11,8 +25,8 @@ In addition to my mods I also curate the [Keizaal](https://pierredespereaux.gith
 ## Keizaal
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
----
 
+---
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
@@ -30,17 +44,3 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 2. Immersion is paramount. I’m a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
 3. Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
 4. Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
-
-## My Socials
-
-<!-- markdownlint-disable MD033 -->
-<div class="socials">
-<a class="buttons" href="https://forums.nexusmods.com/index.php?/user/61720101-pierredespereaux/">Nexus Forums</a> |
-<a class="buttons" href="https://github.com/PierreDespereaux">GitHub</a> |
-<a class="buttons" href="https://www.reddit.com/user/PDespereaux">Reddit</a> |
-<a class="buttons" href="https://www.youtube.com/channel/UCJrDizmqxqo-v9yhEvcU59Q">YouTube</a> |
-  <a class="buttons" href="https://ko-fi.com/pierredespereaux">Ko-fi</a> |
-<a class="buttons" href="https://www.patreon.com/user?u=16914107">Patreon</a>
-</div>
-
----
