@@ -12,6 +12,8 @@ In addition to my mods I also curate the [Keizaal](https://pierredespereaux.gith
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
 
+---
+
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
