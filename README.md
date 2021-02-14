@@ -28,8 +28,6 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a> |
 </div>
 
----
-
 ## My Socials
 
 <!-- markdownlint-disable MD033 -->
