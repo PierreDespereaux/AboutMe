@@ -19,7 +19,19 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 3. Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
 4. Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
+<!-- markdownlint-disable MD033 -->
+<div class="socials">
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a> |
+</div>
+
+---
+
 ## My Socials
+
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
 <a class="buttons" href="https://forums.nexusmods.com/index.php?/user/61720101-pierredespereaux/">Nexus Forums</a> |
@@ -29,7 +41,5 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
   <a class="buttons" href="https://ko-fi.com/pierredespereaux">Ko-fi</a> |
 <a class="buttons" href="https://www.patreon.com/user?u=16914107">Patreon</a>
 </div>
-
-<!-- markdownlint-enable MD033 -->
 
 ---
