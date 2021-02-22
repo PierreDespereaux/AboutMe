@@ -27,10 +27,9 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 
 ## My Mods
 
-[<img src="https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png">](https://www.nexusmods.com/users/61720101)
+<center>[<img src="https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png">](https://www.nexusmods.com/users/61720101)
 
 ---
-
 <center> <font size="1">MIT License<font size="1"> 
 
 <center> <font size="1">Copyright (c) 2021 Pierre Despereaux<font size="1">
