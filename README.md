@@ -13,8 +13,7 @@ In addition to my mods I also curate the [Keizaal](https://pierredespereaux.gith
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TESTIMONIALS.html">Testimonials</a> | 
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a>
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a>
 </div>
 ---
 
