@@ -1,29 +1,5 @@
 # About Me
 
-Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist author. In the past I have focused mainly on on item integration mods such as [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352) and [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163) but I have recently moved on to more ambitious and complicated projects. Right now I am working on [Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo) alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
-
-In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
-
-## Keizaal
-
-[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
-<!-- markdownlint-disable MD033 -->
-<div class="socials">
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TESTIMONIALS.html">Testimonials</a> | 
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a>
-</div>
----
-
-Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
-
-1. This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.
-2. Immersion is paramount. I’m a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
-3. Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
-4. Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
-
 ## My Mods
 ![Quests.png](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Quests.png)
 
@@ -104,6 +80,31 @@ The Dragonborn DLC added shrines and blessings for both Azura and Boethiah to th
 ![i1Q87Su.png](https://i.imgur.com/i1Q87Su.png) ![rpOp9g0.png](https://i.imgur.com/rpOp9g0.png) ![xymDXEI.png](https://i.imgur.com/xymDXEI.png)
 
 Skyrim is a land ravaged by war, two sides duking it out for what they believe in. However, there are some who have become disenfranchised with the conflict and would rather just be left well alone. Now you will be able to encounter such people.
+
+
+Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist author. In the past I have focused mainly on on item integration mods such as [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352) and [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163) but I have recently moved on to more ambitious and complicated projects. Right now I am working on [Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo) alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
+
+In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
+
+## Keizaal
+
+[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
+<!-- markdownlint-disable MD033 -->
+<div class="socials">
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TESTIMONIALS.html">Testimonials</a> | 
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a>
+</div>
+---
+
+Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
+
+1. This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.
+2. Immersion is paramount. I’m a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
+3. Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
+4. Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
 ---
 
