@@ -2,7 +2,7 @@
 
 Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist author. In the past I have focused mainly on on item integration mods such as [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352) and [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163) but I have recently moved on to more ambitious and complicated projects. Right now I am working on [Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo) alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
 
-In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Keizaal](https://discord.gg/eYZJFP8) or [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
+In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
 
 ## Keizaal
 
