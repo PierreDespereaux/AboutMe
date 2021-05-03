@@ -5,6 +5,9 @@ Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack m
 In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more Keizaal be sure to visit the [Wabbajack](https://discord.com/invite/wabbajack) Discord server.
 
 ## My Mods
+
+[![Featured%20in%20Keizaal.png](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Featured%20in%20Keizaal.png)](https://pierredespereaux.github.io/Keizaal/)[![Featured%20in%20Phoenix%20Flavor.png](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Featured%20in%20Phoenix%20Flavor.png)](https://thephoenixflavour.com/tpf/introduction/)
+
 ![Quests.png](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Quests.png)
 
 [![Knight%20of%20the%20North.png](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Knight%20of%20the%20North.png)](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
