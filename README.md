@@ -80,7 +80,7 @@ Pirates now wield Cutlasses!
 
 ![i1Q87Su.png](https://i.imgur.com/i1Q87Su.png) ![xymDXEI.png](https://i.imgur.com/xymDXEI.png)
 
-The Dragonborn DLC added shrines and blessings for both Azura and Boethiah to the game. However, these shrines are not present at these prince's holy places in Skyrim. This tiny mod adds a Shrine of Azura at the Shrine of Azura (go figure) and a Shrine of Boethiah at Sacellum of Boethiah.
+The Dragonborn DLC added shrines and blessings for both Azura and Boethiah to the game. However, these shrines are not present at these prince's holy places in Skyrim. This tiny mod adds a Shrine of Azura at the Shrine of Azura (go figure) and a Shrine of Boethiah at the Sacellum of Boethiah.
 
 [![Civil%20War%20Deserters.png](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Civil%20War%20Deserters.png)](https://www.nexusmods.com/skyrimspecialedition/mods/44497)
 
