@@ -93,10 +93,10 @@ Skyrim is a land ravaged by war, two sides duking it out for what they believe i
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TESTIMONIALS.html">Testimonials</a> | 
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> | 
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a> |
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a>
 </div>
 ---
