@@ -96,8 +96,9 @@ Skyrim is a land ravaged by war, two sides duking it out for what they believe i
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/">Overview</a> | 
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
 <a class="buttons" href="https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a> |
-<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a>
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CHANGELOG.html">Changelog</a> |
+<a class="buttons" href="https://pierredespereaux.github.io/Keizaal/CREDITS.html">Credits</a>
+
 </div>
 ---
 
