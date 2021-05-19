@@ -4,6 +4,8 @@ Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack m
 
 In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
 
+I am not taking commission at this time. 
+
 ## My Mods
 
 [![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
