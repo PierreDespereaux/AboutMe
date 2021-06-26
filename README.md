@@ -2,7 +2,7 @@
 
 Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist author. I make a random mix of mods and don't really stay within any one category, just whatever I want to see added to the game. However, I am currently working on a larger project called "[Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo)" alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
 
-In addition to my mods I also curate the [Keizaal](https://pierredespereaux.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
+In addition to my mods I also curate the [Keizaal](https://keizaal.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
 
 I am not taking commission at this time. 
 
