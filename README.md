@@ -18,7 +18,8 @@ I am not taking commission at this time.
 <a class="buttons" href="https://keizaal.github.io/Keizaal/">Overview</a> | 
 <a class="buttons" href="https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
 <a class="buttons" href="https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
-<a class="buttons" href="https://keizaal.github.io/Keizaal/CHANGELOG.html">Changelog</a>
+<a class="buttons" href="https://keizaal.github.io/Keizaal/CHANGELOG.html">Changelog</a> |
+<a class="buttons" href="https://keizaal.github.io/Keizaal-Testimonials/">Changelog</a>
 
 </div>
 ---
