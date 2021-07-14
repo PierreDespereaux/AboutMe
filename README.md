@@ -9,7 +9,8 @@ I am not taking commission at this time.
 ## My Mods
 
 [![](https://i.playground.ru/p/4FYpmbRKekTEEs0MhdSJ8A.png)](https://www.nexusmods.com/users/61720101)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bethesda_Game_Studios_logo.svg/320px-Bethesda_Game_Studios_logo.svg.png)](https://bethesda.net/en/mods/skyrim?author_username=PierreDespereaux&number_results=20&order=desc&page=1&product=skyrim)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Blank_button.svg/146px-Blank_button.svg.png)
+[![](https://vgboxart.com/resources/logo/1636_bethesda_game_studios-prev.png)](https://bethesda.net/en/mods/skyrim?author_username=PierreDespereaux&number_results=20&order=desc&page=1&product=skyrim)
 
 ## Keizaal
 
