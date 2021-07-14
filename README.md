@@ -1,6 +1,6 @@
 ---
 Layout: default
-Title:  
+Title: Pierre Despereaux
 ---
 # About Me
 
