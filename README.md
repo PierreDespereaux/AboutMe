@@ -1,3 +1,6 @@
+Layout: default
+Title:  
+
 # About Me
 
 Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist curator. I make a random mix of mods and don't really stay within any one category, just whatever I want to see added to the game. However, I am currently working on a larger project called "[Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo)" alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
