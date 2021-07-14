@@ -12,7 +12,7 @@ I am not taking commission at this time.
 
 ## Keizaal
 
-[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://pierredespereaux.github.io/Keizaal/)
+[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://keizaal.github.io/Keizaal/)
 <!-- markdownlint-disable MD033 -->
 <div class="socials">
 <a class="buttons" href="https://keizaal.github.io/Keizaal/">Overview</a> | 
