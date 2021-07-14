@@ -15,14 +15,6 @@ I am not taking commission at this time.
 ## Keizaal
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner%20Small.png">](https://keizaal.github.io/Keizaal/)
-<!-- markdownlint-disable MD033 -->
-<div class="socials">
-<a class="buttons" href="https://keizaal.github.io/Keizaal/">Overview</a> | 
-<a class="buttons" href="https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html">Installation Guide</a> |
-<a class="buttons" href="https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html">Troubleshooting</a> |
-<a class="buttons" href="https://keizaal.github.io/Keizaal/CHANGELOG.html">Changelog</a> |
-<a class="buttons" href="https://keizaal.github.io/Keizaal-Testimonials/">Testimonials</a>
-</div>
 ---
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
