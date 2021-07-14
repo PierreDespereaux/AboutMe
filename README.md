@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/branding/YouTube%20Banner%20Just%20Mountains.png)
-
 # About Me
 
 Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack modlist curator. I make a random mix of mods and don't really stay within any one category, just whatever I want to see added to the game. However, I am currently working on a larger project called "[Asya'la the Nordic Khajiit - A Fully Voiced Follower](https://www.youtube.com/watch?v=rbU1ubNYZbo)" alongside my wife, Cora Despereaux. I can't wait to share the finished project with you all!
@@ -7,10 +5,6 @@ Hello all, my name is Pierre Despereaux and I am a Skyrim modder and Wabbajack m
 In addition to my mods I also curate the [Keizaal](https://keizaal.github.io/Keizaal/) Wabbajack modlist. It is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. If you're interested in learning more about Keizaal be sure to visit [the website](https://keizaal.github.io/Keizaal/).
 
 I am not taking commission at this time. 
-
-## My Mods
-
-[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
 
 ## Keizaal
 
@@ -24,6 +18,10 @@ I am not taking commission at this time.
 <a class="buttons" href="https://keizaal.github.io/Keizaal-Testimonials/">Testimonials</a>
 
 </div>
+
+## My Mods
+
+[![](https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/banners/Master.png)](https://www.nexusmods.com/users/61720101)
 ---
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
